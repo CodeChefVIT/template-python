@@ -2,10 +2,11 @@
 </p>
 
 <h2 align="center"> Project Title </h2>
+<br/>
 
 > Include project description here.
 
-
+<br/>
 ---
 
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
